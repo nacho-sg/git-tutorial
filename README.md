@@ -4,6 +4,8 @@
 
 - A commit is a snapshot of the entire repository content.
 
-- A branch points to a commit and it can be changed to point to any commit.
+- A commit points to a branch and it can be changed to point to any branch.
 
 - The configuration of git could be --local --global or --system.
+
+Un commit apunta a una rama, no al revez.
