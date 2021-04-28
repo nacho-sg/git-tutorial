@@ -9,3 +9,5 @@
 - The configuration of git could be --local --global or --system.
 
 Un commit apunta a una rama, no al revez.
+
+autor: git config --global user.name "Nextiva Challenge Resolver"
