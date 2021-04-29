@@ -6,4 +6,4 @@
 
 - A branch points to a commit and it can be changed to branch to any commit.
 
-- The configuration of git could be --local --global or --system
+- The configuration of git could be --local --global or --system.
